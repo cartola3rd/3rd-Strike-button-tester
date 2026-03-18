@@ -26,6 +26,6 @@ If you want the characters to be crouched before the button press, set `p1_idle`
 
 Once you have set it all up, open 3rd Strike on Fightcade and pick the two characters you want to test with. Place them at fullscreen distance away from each other, and just load the script. It will start testing the interactions, and once it's done, the results will be written to a folder with the name of the character.
 
-Note: If `p1_idle` and `p2_idle` are set to 2, you should make the characters crouch before running the script.
+Note: If `p1_idle` and `p2_idle` are set to 2, you should make the characters crouched before running the script (crouch them > pause the game > run the script > unpause > leave it running).
 
 And that's it. It's really hacky, but it works. Simulations tend to be quite slow, and the FBN emulator receives inputs from your controller/keyboard even when the window is minimized, so it's better to leave it running at times when you're not using your computer.
