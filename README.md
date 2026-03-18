@@ -1,5 +1,5 @@
 # 3rd-Strike-button-tester
-A script that simulates attack interactions in Street Fighter III: 3rd Strike at every pixel distance, and writes at what timings it's a Win, a Loss or a Trade into a text file.
+A script that simulates normal attack interactions in Street Fighter III: 3rd Strike at every pixel distance, and writes at what timings it's a Win, a Loss or a Trade into a text file.
 
 ## Example output:
 ```
