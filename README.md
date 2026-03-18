@@ -1,6 +1,14 @@
 # 3rd-Strike-button-tester
-A script that simulates attack interactions in Street Fighter III: 3rd Strike at every pixel distance, and writes at what timings it's a Win, a Loss or a Trade
+A script that simulates attack interactions in Street Fighter III: 3rd Strike at every pixel distance, and writes at what timings it's a Win, a Loss or a Trade into a text file.
 
+## Example output:
+```
+    3) Distance of 99~69 pixels:
+
+        At +4~-1,   Yun 2MP wins
+        At -2,      Yun 2MP trades
+        At -3~-6,   Yun 2MP loses
+```
 ## How to use:
 
 Place `tester.lua` and `settings.ini` in the same folder.
