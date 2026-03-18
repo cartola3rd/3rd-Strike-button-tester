@@ -3,11 +3,27 @@ A script that simulates attack interactions in Street Fighter III: 3rd Strike at
 
 ## Example output:
 ```
+Yun 2MP vs Ken 5MP
+
+    1) Distance of 157~104 pixels:
+
+        At +7~-2,   Yun 2MP loses
+
+    2) Distance of 103~100 pixels:
+
+        At +8~-6,   Yun 2MP loses
+
     3) Distance of 99~69 pixels:
 
         At +4~-1,   Yun 2MP wins
         At -2,      Yun 2MP trades
         At -3~-6,   Yun 2MP loses
+
+    4) Distance of 68~48 pixels:
+
+        At +4~+1,   Yun 2MP wins
+        At +0,      Yun 2MP trades
+        At -1~-4,   Yun 2MP loses
 ```
 ## How to use:
 
